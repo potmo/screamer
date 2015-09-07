@@ -10,7 +10,7 @@
 
     <TextView
             android:id="@+id/hello"
-            android:text="@string/hello_world"
+            android:text="Hej det här är ett konstverk som du inte ska pilla på. Låt det vara!"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
 
